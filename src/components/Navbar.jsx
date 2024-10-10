@@ -45,7 +45,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <Image src={logo} alt='logo' className='w-10 h-10 object-contain' />
+          <Image src={''} alt='' className='w-10 h-10 object-contain' />
           <p className='text-white text-[29px] font-bold cursor-pointer flex relative right-2 '>
             Meheraz &nbsp;
             <span className='sm:block hidden'> </span>
